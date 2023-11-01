@@ -1,0 +1,68 @@
+body {
+    background-color:FloralWhite; font-family:monospace
+}
+
+intro {
+    font-size:20px;
+}
+
+.table {
+    font: size 15px; text-align:center;
+}
+
+.Turtle {
+    color:darkslategray;
+    background-color:darkseagreen; color:darkslategray;
+}
+
+.Snowman {
+    color:slategray;
+    background-color:lightsteelblue; color:slategray
+}
+
+.Blanket {
+    color:brown;
+    background-color:darksalmon; color:brown
+}
+
+h2 {
+    background-color: floralwhite;
+}
+
+img {
+    padding: 0;
+    margin: 0;
+
+}
+
+.row {
+    font-weight: 600;
+    font-size: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+section {
+    font-size: 12px;
+    font-family:'Courier New', Courier, monospace
+}
+
+#color {
+    color:navy
+}
+.easy {
+    background-color: peachpuff;
+}
+
+.hard {
+    background-color: slategray;
+}
+
+.Intermediate {
+    background-color: tan;
+}
+
+coasters {
+    color:rosybrown;
+}
+
