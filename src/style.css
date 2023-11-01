@@ -1,14 +1,29 @@
+
+/* all of the style = " have been deleted and replaced with this page */
+
 body {
     background-color:FloralWhite; font-family:monospace
+}
+h1 {
+    color:rosybrown;
 }
 
 intro {
     font-size:20px;
 }
 
+/* this is one of the class rules i put in */
+/* this also makes the text look much neater */
+
 .table {
-    font: size 15px; text-align:center;
+    font: size 15px; text-align:center; 
 }
+
+tr {
+    background-color:rosybrown
+}
+
+/* colors each of the patterns a different color */
 
 .Turtle {
     color:darkslategray;
@@ -35,6 +50,8 @@ img {
 
 }
 
+/* this make the begining of each row in bold */
+
 .row {
     font-weight: 600;
     font-size: 13px;
@@ -46,6 +63,8 @@ section {
     font-size: 12px;
     font-family:'Courier New', Courier, monospace
 }
+
+/* this is one of the id rules i used */
 
 #color {
     color:navy
